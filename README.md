@@ -1,8 +1,7 @@
 # Pokédex Ionic + Angular + Firebase
 
 - Desarrollado por **Mateo Bernal**
-- **Link del APK: **
-
+- **Link del APK:** https://epnecuador-my.sharepoint.com/:f:/g/personal/jose_bernal_epn_edu_ec/ErBbMToImY1KpnYVa4I4sfkB-HPzPLHV6jD0kw3zCWjdvw?e=7owlPq
 
 ## Características principales
 
