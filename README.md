@@ -1,7 +1,7 @@
 # Pokédex Ionic + Angular + Firebase
 
 - Desarrollado por **Mateo Bernal**
-- **Link del APK**
+- **Link del APK: **
 
 
 ## Características principales
@@ -43,5 +43,9 @@ Las reseñas se guardan en la colección `busquedas` con los siguientes campos:
 - ![imagen](https://github.com/user-attachments/assets/8aedb010-d680-4624-aa38-dd5fa87e1a7a)
 - ![imagen](https://github.com/user-attachments/assets/89ce3332-d28c-4529-acd4-6684401cc69f)
 - ![imagen](https://github.com/user-attachments/assets/a93fa057-29d9-4fb4-a1f7-49eb28418b30)
+- ![imagen](https://github.com/user-attachments/assets/e3ce02eb-93d6-4597-be2e-778cf187daa0)
+- ![imagen](https://github.com/user-attachments/assets/d5ce1015-f36a-48e9-8ca8-a9f421d325d8)
+
+
 
 
